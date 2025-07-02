@@ -12,7 +12,6 @@
   },
   "author": "Hector Manuel",
   "license": "MIT",
-  "commitHash": "unknown"
   "dependencies": {
     "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
     "acrcloud": "^1.4.0",
